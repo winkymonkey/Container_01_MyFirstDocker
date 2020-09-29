@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example.docker</groupId>
-	<artifactId>01_MyFirstDocker</artifactId>
+	<artifactId>Container_01_MyFirstDocker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>01_MyFirstDocker</name>
+	<name>Container_01_MyFirstDocker</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
